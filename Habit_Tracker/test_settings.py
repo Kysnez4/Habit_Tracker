@@ -10,7 +10,7 @@ CELERY_TASK_ALWAYS_EAGER = True
 CELERY_TASK_EAGER_PROPAGATES = True
 
 # Отключаем отправку Telegram сообщений в тестах
-TELEGRAM_BOT_TOKEN = 'test-token'
+TELEGRAM_BOT_TOKEN = '7007877017:AAE9vn_pofXQPyoDSfwICctFTwIgtVTLUi0'
 
 # Ускоряем тесты
 PASSWORD_HASHERS = [
